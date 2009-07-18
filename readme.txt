@@ -1,7 +1,7 @@
 === Nav2Me ===
 Contributors: Stephan Gaertner
 Donate link: http://www.stegasoft.de
-Tags: geo, route, planer, google ,maps ,googlemaps , routeplaner, routenplaner
+Tags: geo, route, planer, google ,maps ,googlemaps , routeplaner, routenplaner, routing
 Requires at least: 2.3
 Tested up to: 2.7
 Stable tag: 0.4
