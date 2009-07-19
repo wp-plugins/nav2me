@@ -11,12 +11,12 @@ Stable tag: 0.4
 Mit Nav2Me koennen Sie ganz einfach einen auf Google Maps basierenden Routenplaner in Ihren Blog einbauen.
 Sie benoetigen dazu nur einen API-Key, den Sie hier erhalten:
 http://code.google.com/intl/de-DE/apis/maps/signup.html
-
+Weitere Infos finden Sie unter http://www.stegasoft.de/?p=226
 
 == Copyright ==
 Wordpress - Plugin "Nav2Me"
 Ver. 0.4 (05/2009)
-(c) 2009 by SteGaSoft, Stephan Gärtner
+(c) 2009 by SteGaSoft, Stephan Gaertner
 Www: http://www.stegasoft.de
 eMail: s. website
 
@@ -100,7 +100,7 @@ Bsp.:
 "Route Berechnen".
 
 Template "Seite":
-hier gilt das gleiche wie für "Form". Sie koenne [map] oder [dir]
+hier gilt das gleiche wie fuer "Form". Sie koenne [map] oder [dir]
 auch weglassen. Dann wird nur die Karte oder nur die Wegbeschreibung
 angezeigt. Das [form]-Tag sollten Sie aber nicht vergessen, sonst fehlt
 die Moeglichkeit zur Routenberechnung!
