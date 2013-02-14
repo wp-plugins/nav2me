@@ -1,0 +1,38 @@
+#fancybox-content {
+  background-color: #EBEBEB;
+  border-color: #EBEBEB;
+}
+
+.tablesorter{
+  border: solid 1px #C5C5C5;
+  border-collapse: collapse;
+  font-size:10pt;
+}
+
+.tablesorter td, .tablesorter th {
+  padding:4px;
+  border: solid 1px #C5C5C5;
+  text-align:left;
+}
+
+
+.tablesorter th {
+  padding-left:25px;
+  cursor:pointer;
+}
+
+.tablesorter .header {
+        /* background-image: url(images/sort_bg_kl.png); */
+        background-repeat: no-repeat;
+        background-position:left center;
+}
+.tablesorter .headerSortUp {
+        /* background-image: url(images/sort_asc_kl.png); */
+        background-repeat: no-repeat;
+        background-position:left center;
+}
+.tablesorter .headerSortDown {
+        /* background-image: url(images/sort_desc_kl.png); */
+        background-repeat: no-repeat;
+        background-position:left center;
+}
