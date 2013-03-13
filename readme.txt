@@ -42,6 +42,11 @@ Das Plugin fuer jeden Blog separat aktivieren!
 Zur Zeit keine Angaben.
 
 == Changelog ==
+= Version 1.0.1 (13.03.2013) =
+* Wenn bei der Button-Beschriftung ein Leerzeichn vorkam, wurde der Text 
+  nicht vollstaendig dargestellt. Ab dieser Version koennen Leerzeichen durch Unterstriche (_)
+  ersetzt werden.
+
 = Version 1.0 (14.02.2013) =
 * erste Version
 
