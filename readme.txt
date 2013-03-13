@@ -4,7 +4,7 @@ Donate link: http://www.stegasoft.de/wordpress-plugins/nav2me/
 Tags: google,maps,navigation,route,routing,geo,routenplaner
 Requires at least: 3.3
 Tested up to: 3.5.1
-Stable tag: 1.0
+Stable tag: 1.0.1
 
 
 Einfaches, Google Maps (v.3) basiertes Routenplaner-Plugin
