@@ -3,8 +3,8 @@ Contributors: sgt, Stephan Gaertner
 Donate link: http://www.stegasoft.de/wordpress-plugins/nav2me/
 Tags: google,maps,navigation,route,routing,geo,routenplaner
 Requires at least: 3.3
-Tested up to: 3.5.1
-Stable tag: 1.0.1
+Tested up to: 3.9.1
+Stable tag: 1.0.2
 
 
 Einfaches, Google Maps (v.3) basiertes Routenplaner-Plugin
@@ -42,7 +42,7 @@ Das Plugin fuer jeden Blog separat aktivieren!
 Zur Zeit keine Angaben.
 
 == Changelog ==
-= Version 1.0.2 (09.06.2013) =
+= Version 1.0.2 (09.06.2014) =
 * neue Sprachen: spanisch, serbisch
   Vielen Dank dafuer an Ogi Djuraskovic von [firstsiteguide](http://firstsiteguide.com/)
 
