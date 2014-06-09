@@ -3,14 +3,14 @@
 Plugin Name: Nav2Me
 Plugin URI: http://www.stegasoft.de/
 Description: Simple Google Maps Routing plugin
-Version: 1.0.1
+Version: 1.0.2
 Author: Stephan Gaertner
 Author URI: http://www.stegasoft.de
 Min WP Version: 3.3
 */
 
 
-$nav2me_version = "1.0.1";
+$nav2me_version = "1.0.2";
 
 
 //============= INCLUDES ==========================================================

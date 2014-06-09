@@ -1,0 +1,282 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Nav2Me v1.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2014-05-27 07:58+0100\n"
+"Last-Translator: Borisa Djuraskovic <borisad@webhostinghub.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;"
+"_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2\n"
+"X-Textdomain-Support: yes\n"
+"Language: de_DE\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-SearchPath-0: .\n"
+
+# @ nav2me
+#: nav-functions.php:32
+msgid "Small"
+msgstr "Malo"
+
+# @ nav2me
+#: nav-functions.php:32
+msgid "Large"
+msgstr "Veliko"
+
+# @ nav2me
+#: nav-functions.php:32 nav-functions.php:33 nav2me.php:440
+msgid "Default"
+msgstr "Default"
+
+# @ nav2me
+#: nav-functions.php:33
+msgid "Horizontal"
+msgstr "Horizontalno"
+
+# @ nav2me
+#: nav-functions.php:33
+msgid "Drop down"
+msgstr "Povući na dole"
+
+# @ nav2me
+#: nav-functions.php:166
+msgid "Specify map data"
+msgstr "Odrediti podatke mape"
+
+# @ nav2me
+#: nav-functions.php:171 nav-functions.php:324
+msgid "Address"
+msgstr "Adresa"
+
+# @ nav2me
+#: nav-functions.php:172
+msgid "Lat / Long"
+msgstr "Geografska visina / geografska širina"
+
+# @ nav2me
+#: nav-functions.php:172
+msgid "optional"
+msgstr "opcionalno"
+
+# @ nav2me
+#: nav-functions.php:184
+msgid "Width"
+msgstr "Širina"
+
+# @ nav2me
+#: nav-functions.php:184
+msgid "Height"
+msgstr "Visina"
+
+# @ nav2me
+#: nav-functions.php:185
+msgid "Zoom"
+msgstr "Zoom"
+
+# @ nav2me
+#: nav-functions.php:186
+msgid "Map type"
+msgstr "Tip mape"
+
+# @ nav2me
+#: nav-functions.php:189
+msgid "Display"
+msgstr "Prikaz"
+
+# @ nav2me
+#: nav-functions.php:190
+msgid "ZoomControl"
+msgstr "ZoomControl"
+
+# @ nav2me
+#: nav-functions.php:191
+msgid "MapControl"
+msgstr "MapControl"
+
+# @ nav2me
+#: nav-functions.php:192
+msgid "PanControl"
+msgstr "PanControl"
+
+# @ nav2me
+#: nav-functions.php:195
+msgid "ScaleControl"
+msgstr "ScaleControl"
+
+# @ nav2me
+#: nav-functions.php:196
+msgid "StreetViewControl"
+msgstr "StreetViewControl"
+
+# @ nav2me
+#: nav-functions.php:197
+msgid "OverviewMapControl"
+msgstr "OverviewMapControl"
+
+# @ nav2me
+#: nav-functions.php:201 nav-functions.php:326
+msgid "Info"
+msgstr "Info"
+
+# @ nav2me
+#: nav-functions.php:209
+msgid "Template"
+msgstr "Template"
+
+# @ nav2me
+#: nav-functions.php:209
+msgid "Use"
+msgstr "Koristi"
+
+# @ nav2me
+#: nav-functions.php:210 nav-functions.php:328
+msgid "Memo"
+msgstr "Memo"
+
+# @ nav2me
+#: nav-functions.php:214 nav-functions.php:216 nav2me.php:488
+msgid "Save"
+msgstr "Sačuvati"
+
+# @ nav2me
+#: nav-functions.php:214 nav-functions.php:216 nav2me.php:549
+msgid "Cancel"
+msgstr "Ukinuti"
+
+# @ nav2me
+#: nav-functions.php:168
+msgid "Edit map data"
+msgstr "Editovati podatke mape"
+
+# @ nav2me
+#: nav-functions.php:319
+msgid "Maps"
+msgstr "Mape"
+
+# @ nav2me
+#: nav-functions.php:319
+msgid "Add map"
+msgstr "Dodati mapu"
+
+# @ nav2me
+#: nav-functions.php:325
+msgid "Coords"
+msgstr "Koordinati"
+
+# @ nav2me
+#: nav-functions.php:348
+msgid "Edit map"
+msgstr "Editovati mapu"
+
+# @ nav2me
+#: nav-functions.php:349
+msgid "Delete map"
+msgstr "Obrisati mapu"
+
+# @ nav2me
+#: nav-functions.php:356
+msgid "Insert map in posts or pages with <b>[nav2me id=<em>ID</em>]</b>"
+msgstr "Uneti mapu u postove ili stranice sa <b>[nav2me id=<em>ID</em>]</b>"
+
+# @ default
+#: nav2me.php:151
+msgid "Nav2Me"
+msgstr "Nav2Me"
+
+# @ nav2me
+#: nav2me.php:469
+msgid "Administration"
+msgstr "Administracija"
+
+# @ nav2me
+#: nav2me.php:479
+msgid "Miscellaneous"
+msgstr "Razno"
+
+# @ nav2me
+#: nav2me.php:481
+msgid "Deinstall"
+msgstr "Deinstalirati"
+
+# @ nav2me
+#: nav2me.php:483
+msgid ""
+"if checked, all plugin options will be removed from database after disabling "
+"it"
+msgstr ""
+"ako je čekirano, sve opcije plugina će biti uklonjene sa baze podataka nakon "
+"što onemogućite"
+
+# @ nav2me
+#: nav2me.php:496
+msgid "Loading"
+msgstr "Učitavanje"
+
+# @ nav2me
+#: nav2me.php:498
+msgid ""
+"For updates just visite <a href='http://www.stegasoft.de/' "
+"target='_blank'>www.stegasoft.de</a>. Or follow on"
+msgstr ""
+"Za update posetite  <a href='http://www.stegasoft.de/' target='_blank'>www."
+"stegasoft.de</a>. Ili pratite"
+
+# @ nav2me
+#: nav2me.php:500
+msgid "Do you like this plugin? So what's about a donation via"
+msgstr "D li vam se dopada plugin? Šta je sa donacijom preko"
+
+# @ nav2me
+#: nav2me.php:712
+msgid "Delete map ID="
+msgstr "obrisati ID= mape"
+
+# @ nav2me
+#: nav2me.php:547
+msgid "Create map based on"
+msgstr "kreirati mapu baziranu na"
+
+# @ nav2me
+#: nav-functions.php:203
+msgid "display info box"
+msgstr "prikazati info box"
+
+# @ nav2me
+#: nav-functions.php:204
+msgid "ever"
+msgstr "ikada"
+
+# @ nav2me
+#: nav-functions.php:205
+msgid "on click"
+msgstr "na klik"
+
+# @ nav2me
+#: nav-functions.php:206
+msgid "never"
+msgstr "nikada"
+
+# @ nav2me
+#: nav-functions.php:173
+msgid "Icon"
+msgstr "ikona"
+
+# @ nav2me
+#: nav-functions.php:173
+msgid "Show/hide filetree"
+msgstr "prikazati/sakriti filetree"
+
+# @ nav2me
+#: nav-functions.php:176
+msgid "Click file to select"
+msgstr "Klik na faj da izaberete"
+
+# @ nav2me
+#: nav2me.php:248 nav2me.php:389
+msgid "Print"
+msgstr "Štampaj"

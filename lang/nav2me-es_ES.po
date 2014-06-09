@@ -1,0 +1,283 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Nav2Me v1.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2014-06-02 17:00+0100\n"
+"Last-Translator: jelena kovacevic <jecajeca260@gmail.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;"
+"_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2\n"
+"X-Textdomain-Support: yes\n"
+"Language: de_DE\n"
+"X-Generator: Poedit 1.5.5\n"
+"X-Poedit-SearchPath-0: .\n"
+
+# @ nav2me
+#: nav-functions.php:32
+msgid "Small"
+msgstr "Pequeño"
+
+# @ nav2me
+#: nav-functions.php:32
+msgid "Large"
+msgstr "Largo"
+
+# @ nav2me
+#: nav-functions.php:32 nav-functions.php:33 nav2me.php:440
+msgid "Default"
+msgstr "Por Defecto"
+
+# @ nav2me
+#: nav-functions.php:33
+msgid "Horizontal"
+msgstr "Horizontal"
+
+# @ nav2me
+#: nav-functions.php:33
+msgid "Drop down"
+msgstr "Desplegable"
+
+# @ nav2me
+#: nav-functions.php:166
+msgid "Specify map data"
+msgstr "Especifique los datos del mapa"
+
+# @ nav2me
+#: nav-functions.php:171 nav-functions.php:324
+msgid "Address"
+msgstr "Dirección"
+
+# @ nav2me
+#: nav-functions.php:172
+msgid "Lat / Long"
+msgstr "Lat/Long"
+
+# @ nav2me
+#: nav-functions.php:172
+msgid "optional"
+msgstr "opcional"
+
+# @ nav2me
+#: nav-functions.php:184
+msgid "Width"
+msgstr "Ancho"
+
+# @ nav2me
+#: nav-functions.php:184
+msgid "Height"
+msgstr "Largo"
+
+# @ nav2me
+#: nav-functions.php:185
+msgid "Zoom"
+msgstr "Zoom"
+
+# @ nav2me
+#: nav-functions.php:186
+msgid "Map type"
+msgstr "Tipo de Mapa"
+
+# @ nav2me
+#: nav-functions.php:189
+msgid "Display"
+msgstr "Visualización"
+
+# @ nav2me
+#: nav-functions.php:190
+msgid "ZoomControl"
+msgstr "ZoomControl"
+
+# @ nav2me
+#: nav-functions.php:191
+msgid "MapControl"
+msgstr "MapControl"
+
+# @ nav2me
+#: nav-functions.php:192
+msgid "PanControl"
+msgstr "PanControl"
+
+# @ nav2me
+#: nav-functions.php:195
+msgid "ScaleControl"
+msgstr "ScaleControl"
+
+# @ nav2me
+#: nav-functions.php:196
+msgid "StreetViewControl"
+msgstr "StreetViewControl"
+
+# @ nav2me
+#: nav-functions.php:197
+msgid "OverviewMapControl"
+msgstr "OverviewMapControl"
+
+# @ nav2me
+#: nav-functions.php:201 nav-functions.php:326
+msgid "Info"
+msgstr "Información"
+
+# @ nav2me
+#: nav-functions.php:209
+msgid "Template"
+msgstr "Plantilla"
+
+# @ nav2me
+#: nav-functions.php:209
+msgid "Use"
+msgstr "Usar"
+
+# @ nav2me
+#: nav-functions.php:210 nav-functions.php:328
+msgid "Memo"
+msgstr "Memorándum"
+
+# @ nav2me
+#: nav-functions.php:214 nav-functions.php:216 nav2me.php:488
+msgid "Save"
+msgstr "Guardar"
+
+# @ nav2me
+#: nav-functions.php:214 nav-functions.php:216 nav2me.php:549
+msgid "Cancel"
+msgstr "Cancelar"
+
+# @ nav2me
+#: nav-functions.php:168
+msgid "Edit map data"
+msgstr "Modificar los datos del mapa"
+
+# @ nav2me
+#: nav-functions.php:319
+msgid "Maps"
+msgstr "Mapas"
+
+# @ nav2me
+#: nav-functions.php:319
+msgid "Add map"
+msgstr "Adicionar al mapa"
+
+# @ nav2me
+#: nav-functions.php:325
+msgid "Coords"
+msgstr "Coordenadas"
+
+# @ nav2me
+#: nav-functions.php:348
+msgid "Edit map"
+msgstr "Modificar mapa"
+
+# @ nav2me
+#: nav-functions.php:349
+msgid "Delete map"
+msgstr "Eliminar mapa"
+
+# @ nav2me
+#: nav-functions.php:356
+msgid "Insert map in posts or pages with <b>[nav2me id=<em>ID</em>]</b>"
+msgstr "Insertar mapa en posts o páginas con <b>[nav2me id=<em>ID</em>]</b>"
+
+# @ default
+#: nav2me.php:151
+msgid "Nav2Me"
+msgstr "Nav2Me"
+
+# @ nav2me
+#: nav2me.php:469
+msgid "Administration"
+msgstr "Administración"
+
+# @ nav2me
+#: nav2me.php:479
+msgid "Miscellaneous"
+msgstr "Misceláneo"
+
+# @ nav2me
+#: nav2me.php:481
+msgid "Deinstall"
+msgstr "Desinstalar"
+
+# @ nav2me
+#: nav2me.php:483
+msgid ""
+"if checked, all plugin options will be removed from database after disabling "
+"it"
+msgstr ""
+"Si está activado, todas las opciones del plugin se eliminarán de la base de "
+"datos después de su desactivación"
+
+# @ nav2me
+#: nav2me.php:496
+msgid "Loading"
+msgstr "Cargando"
+
+# @ nav2me
+#: nav2me.php:498
+msgid ""
+"For updates just visite <a href='http://www.stegasoft.de/' "
+"target='_blank'>www.stegasoft.de</a>. Or follow on"
+msgstr ""
+"Para actualizar solo visite <a href='http://www.stegasoft.de/' "
+"target='_blank'>www.stegasoft.de</a>. O síganos en "
+
+# @ nav2me
+#: nav2me.php:500
+msgid "Do you like this plugin? So what's about a donation via"
+msgstr ""
+"¿Le gusta este plugin? Entonces, qué tal acerca de una donación a través de"
+
+# @ nav2me
+#: nav2me.php:712
+msgid "Delete map ID="
+msgstr "Eliminar ID del mapa = "
+
+# @ nav2me
+#: nav2me.php:547
+msgid "Create map based on"
+msgstr "Crear mapa basado en"
+
+# @ nav2me
+#: nav-functions.php:203
+msgid "display info box"
+msgstr "mostrar el cuadro de información"
+
+# @ nav2me
+#: nav-functions.php:204
+msgid "ever"
+msgstr "nunca"
+
+# @ nav2me
+#: nav-functions.php:205
+msgid "on click"
+msgstr "al hacer clic"
+
+# @ nav2me
+#: nav-functions.php:206
+msgid "never"
+msgstr "nunca"
+
+# @ nav2me
+#: nav-functions.php:173
+msgid "Icon"
+msgstr "Icono"
+
+# @ nav2me
+#: nav-functions.php:173
+msgid "Show/hide filetree"
+msgstr "Mostrar/ocultar filetree"
+
+# @ nav2me
+#: nav-functions.php:176
+msgid "Click file to select"
+msgstr "Clic para seleccionar el archivo"
+
+# @ nav2me
+#: nav2me.php:248 nav2me.php:389
+msgid "Print"
+msgstr "Imprimir"

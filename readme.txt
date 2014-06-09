@@ -42,8 +42,12 @@ Das Plugin fuer jeden Blog separat aktivieren!
 Zur Zeit keine Angaben.
 
 == Changelog ==
+= Version 1.0.2 (09.06.2013) =
+* neue Sprachen: spanisch, serbisch
+  Vielen Dank dafuer an Ogi Djuraskovic von [firstsiteguide](http://firstsiteguide.com/)
+
 = Version 1.0.1 (13.03.2013) =
-* Wenn bei der Button-Beschriftung ein Leerzeichn vorkam, wurde der Text 
+* Wenn bei der Button-Beschriftung ein Leerzeichen vorkam, wurde der Text 
   nicht vollstaendig dargestellt. Ab dieser Version koennen Leerzeichen durch Unterstriche (_)
   ersetzt werden.
 
