@@ -1,0 +1,276 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Nav2Me v1.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2014-05-01 10:11:38+0000\n"
+"Last-Translator: admin <test@server.sg>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Poedit-Language: \n"
+"X-Poedit-Country: \n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;\n"
+"X-Poedit-Basepath: \n"
+"X-Poedit-Bookmarks: \n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Textdomain-Support: yes"
+
+#: nav-functions.php:32
+#@ nav2me
+msgid "Small"
+msgstr "Klein"
+
+#: nav-functions.php:32
+#@ nav2me
+msgid "Large"
+msgstr "Groot"
+
+#: nav-functions.php:32
+#: nav-functions.php:33
+#: nav2me.php:441
+#@ nav2me
+msgid "Default"
+msgstr "Standaard"
+
+#: nav-functions.php:33
+#@ nav2me
+msgid "Horizontal"
+msgstr "Horizontaal"
+
+#: nav-functions.php:33
+#@ nav2me
+msgid "Drop down"
+msgstr "Drop down"
+
+#: nav-functions.php:166
+#@ nav2me
+msgid "Specify map data"
+msgstr "Kaartgegevens opgeven"
+
+#: nav-functions.php:171
+#: nav-functions.php:324
+#@ nav2me
+msgid "Address"
+msgstr "Adres"
+
+#: nav-functions.php:172
+#@ nav2me
+msgid "Lat / Long"
+msgstr "Lat / Long"
+
+#: nav-functions.php:172
+#@ nav2me
+msgid "optional"
+msgstr "optioneel"
+
+#: nav-functions.php:184
+#@ nav2me
+msgid "Width"
+msgstr "Breedte"
+
+#: nav-functions.php:184
+#@ nav2me
+msgid "Height"
+msgstr "Hoogte"
+
+#: nav-functions.php:185
+#@ nav2me
+msgid "Zoom"
+msgstr "Zoom"
+
+#: nav-functions.php:186
+#@ nav2me
+msgid "Map type"
+msgstr "Kaartsoort"
+
+#: nav-functions.php:189
+#@ nav2me
+msgid "Display"
+msgstr "Weergeven"
+
+#: nav-functions.php:190
+#@ nav2me
+msgid "ZoomControl"
+msgstr "ZoomControl"
+
+#: nav-functions.php:191
+#@ nav2me
+msgid "MapControl"
+msgstr "MapControl"
+
+#: nav-functions.php:192
+#@ nav2me
+msgid "PanControl"
+msgstr "PanControl"
+
+#: nav-functions.php:195
+#@ nav2me
+msgid "ScaleControl"
+msgstr "ScaleControl"
+
+#: nav-functions.php:196
+#@ nav2me
+msgid "StreetViewControl"
+msgstr "StreetViewControl"
+
+#: nav-functions.php:197
+#@ nav2me
+msgid "OverviewMapControl"
+msgstr "OverviewMapControl"
+
+#: nav-functions.php:201
+#: nav-functions.php:326
+#@ nav2me
+msgid "Info"
+msgstr "Info"
+
+#: nav-functions.php:209
+#@ nav2me
+msgid "Template"
+msgstr "Template"
+
+#: nav-functions.php:209
+#@ nav2me
+msgid "Use"
+msgstr "Gebruik"
+
+#: nav-functions.php:210
+#: nav-functions.php:328
+#@ nav2me
+msgid "Memo"
+msgstr "Memo"
+
+#: nav-functions.php:214
+#: nav-functions.php:216
+#: nav2me.php:489
+#@ nav2me
+msgid "Save"
+msgstr "Opslaan"
+
+#: nav-functions.php:214
+#: nav-functions.php:216
+#: nav2me.php:550
+#@ nav2me
+msgid "Cancel"
+msgstr "Cancel"
+
+#: nav-functions.php:168
+#@ nav2me
+msgid "Edit map data"
+msgstr "Kaartgegevens wijzigen"
+
+#: nav-functions.php:319
+#@ nav2me
+msgid "Maps"
+msgstr "Kaarten"
+
+#: nav-functions.php:319
+#@ nav2me
+msgid "Add map"
+msgstr "Kaart toevoegen"
+
+#: nav-functions.php:325
+#@ nav2me
+msgid "Coords"
+msgstr "Coördinaten"
+
+#: nav-functions.php:348
+#@ nav2me
+msgid "Edit map"
+msgstr "Kaart bewerken"
+
+#: nav-functions.php:349
+#@ nav2me
+msgid "Delete map"
+msgstr "Kaart verwijderen"
+
+#: nav-functions.php:356
+#@ nav2me
+msgid "Insert map in posts or pages with <b>[nav2me id=<em>ID</em>]</b>"
+msgstr "Kaart met <b>[nav2me id=<em>ID</em>]</b> in post of pagina plaatsen"
+
+#: nav2me.php:152
+#@ default
+msgid "Nav2Me"
+msgstr "Nav2Me"
+
+#: nav2me.php:470
+#@ nav2me
+msgid "Administration"
+msgstr "Administratie"
+
+#: nav2me.php:480
+#@ nav2me
+msgid "Miscellaneous"
+msgstr "Algemeen"
+
+#: nav2me.php:482
+#@ nav2me
+msgid "Deinstall"
+msgstr "De-installeren"
+
+#: nav2me.php:484
+#@ nav2me
+msgid "if checked, all plugin options will be removed from database after disabling it"
+msgstr "indien aangevinkt worden alle instellingen van de plugin én de data verwijderd bij het de-installeren"
+
+#: nav2me.php:497
+#@ nav2me
+msgid "Loading"
+msgstr "Laden"
+
+#: nav2me.php:499
+#@ nav2me
+msgid "For updates just visite <a href='http://www.stegasoft.de/' target='_blank'>www.stegasoft.de</a>. Or follow on"
+msgstr "Ga voor updates naar <a href='http://www.stegasoft.de/' target='_blank'>www.stegasoft.de</a> of volg via"
+
+#: nav2me.php:501
+#@ nav2me
+msgid "Do you like this plugin? So what's about a donation via"
+msgstr "Ben je tevreden over deze plugin? Een donatie is welkom via"
+
+#: nav2me.php:713
+#@ nav2me
+msgid "Delete map ID="
+msgstr "Verwijder kaart ID="
+
+#: nav-functions.php:176
+#@ nav2me
+msgid "Click file to select"
+msgstr ""
+
+#: nav-functions.php:203
+#@ nav2me
+msgid "display info box"
+msgstr ""
+
+#: nav-functions.php:204
+#@ nav2me
+msgid "ever"
+msgstr ""
+
+#: nav-functions.php:205
+#@ nav2me
+msgid "on click"
+msgstr ""
+
+#: nav-functions.php:206
+#@ nav2me
+msgid "never"
+msgstr ""
+
+#: nav2me.php:249
+#: nav2me.php:390
+#@ nav2me
+msgid "Print"
+msgstr ""
+
+#: nav2me.php:548
+#@ nav2me
+msgid "Create map based on"
+msgstr ""
+

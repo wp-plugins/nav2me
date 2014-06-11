@@ -20,7 +20,7 @@ Bitte beachten Sie die Google Maps Nutzungs-Richtlinien.
 * Anzeigetext fuer Standort anpassbar
 * Anordnung von Karte, Button etc. ueber Template definierbar
 * Routenplanung zum definierten Standort
-* Sprache: Deutsch, Englisch
+* Sprachen: Deutsch, Englisch, Niederländisch, Serbisch, Spanisch
 
 == Installation ==
 Entpacken Sie die ZIP-Datei und laden Sie den Ordner nav2me in das
@@ -43,8 +43,9 @@ Zur Zeit keine Angaben.
 
 == Changelog ==
 = Version 1.0.2 (09.06.2014) =
-* neue Sprachen: spanisch, serbisch
-  Vielen Dank dafuer an Ogi Djuraskovic von [firstsiteguide](http://firstsiteguide.com/)
+* neue Sprachen: spanisch, serbisch, niederlaendisch
+  Vielen Dank an Ogi Djuraskovic von [firstsiteguide](http://firstsiteguide.com/) fuer die spanische und serbische und
+  an Hans Vink fuer die niederlaendische Uebersetzung.
 
 = Version 1.0.1 (13.03.2013) =
 * Wenn bei der Button-Beschriftung ein Leerzeichen vorkam, wurde der Text 
