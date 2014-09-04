@@ -3,7 +3,7 @@ Contributors: sgt, Stephan Gaertner
 Donate link: http://www.stegasoft.de/wordpress-plugins/nav2me/
 Tags: google,maps,navigation,route,routing,geo,routenplaner
 Requires at least: 3.3
-Tested up to: 3.9.1
+Tested up to: 4.0
 Stable tag: 1.0.2
 
 
