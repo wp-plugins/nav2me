@@ -3,7 +3,7 @@ Contributors: sgt, Stephan Gaertner
 Donate link: http://www.stegasoft.de/wordpress-plugins/nav2me/
 Tags: google,maps,navigation,route,routing,geo,routenplaner
 Requires at least: 3.3
-Tested up to: 4.0
+Tested up to: 4.1.1
 Stable tag: 1.0.2
 
 
@@ -20,7 +20,7 @@ Bitte beachten Sie die Google Maps Nutzungs-Richtlinien.
 * Anzeigetext fuer Standort anpassbar
 * Anordnung von Karte, Button etc. ueber Template definierbar
 * Routenplanung zum definierten Standort
-* Sprachen: Deutsch, Englisch, Niederländisch, Serbisch, Spanisch
+* Sprachen: Deutsch, Englisch, Niederl&auml;ndisch, Serbisch, Spanisch
 
 == Installation ==
 Entpacken Sie die ZIP-Datei und laden Sie den Ordner nav2me in das
